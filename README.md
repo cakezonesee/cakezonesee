@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **Potsawat.cake@hotmail.com**
 
-- 📄 Know about my experiences [having knowledges and abilities in using C language to build anotomate systems with Arduino](having knowledges and abilities in using C language to build anotomate systems with Arduino)
-
+- 📄 Know about my experiences having knowledges and abilities in using C language to build anotomate systems with Arduino]
+- 
 - ⚡ Fun fact **I love playing basketball but not really watch it.**
 
 <h3 align="left">Languages and Tools:</h3>
