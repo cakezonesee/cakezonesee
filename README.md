@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Potsawat Panya</h1>
-<h3 align="center">An electrical engineer who recently have found interest in promgramming and data handling using Pandas with Python. I would like for this space to be for me to create something like a storage on what I've been doing or what I've learned.</h3>
+<h3 align="center">An electrical engineer who recently have found interest in programming and data handling using Pandas with Python. I would like for this space to be for me to create something like a storage on what I've been doing or what I've learned.</h3>
 
 - 🌱 I’m currently learning **Python, Pandas, Numpy, mySQL and Power BI**
 
