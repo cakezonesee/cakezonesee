@@ -5,9 +5,9 @@
 
 - 🤝 I’m looking for help with **any programming problems that I may have encountered or some suggestion on something that I should have done.**
 
-- 📫 How to reach me: by email: **Potsawat.cake@hotmail.com** or by mobile: 095-1341394.
+- 📫 How to reach me: by email: **Potsawat.cake@hotmail.com** **or by mobile: 095-1341394.**
 
-- 📄 Know about my experiences - having knowledges and abilities in using C language to build automate systems with Arduino.
+- 📄 Know about my experiences - **having knowledges and abilities in using C language to build automate systems with Arduino.**
 
 - ⚡ Fun fact **I love playing basketball but not really watch it.**
 
